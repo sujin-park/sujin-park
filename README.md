@@ -3,8 +3,6 @@
 - I love communicating with any engineer. I'm in interested in Web technology. :kissing_heart:
 - I'm currently interested in Vue.js & React.js & TDD & UX.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-park&layout=compact)](https://github.com/sujin-park)
-
 <!--
 **sujin-park/sujin-park** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
