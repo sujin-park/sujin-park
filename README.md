@@ -1,7 +1,7 @@
 ### Welcome to my Park ! :deciduous_tree:
 
-- I love communicating with any engineer. I'm in interested in Web technology. :kissing_heart:
-- I'm currently interested in Vue.js & React.js & TDD & UX.
+- I love communicating with any engineer. I'm interested in Web technology. :kissing_heart:
+- I'm currently interested in Vue.js, React.js, TDD, Open Source and UX.
 
 <!--
 **sujin-park/sujin-park** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
