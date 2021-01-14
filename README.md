@@ -1,6 +1,6 @@
 ### Welcome to my Park ! :deciduous_tree:
 
-- I love communicating with any engineer. I'm interested in Web technology. :kissing_heart:
+- I really like to talk to all engineers. I'm interested in Web technology. :kissing_heart:
 - I'm currently interested in Vue.js, React.js, TDD, Open Source and UX.
 
 <!--
