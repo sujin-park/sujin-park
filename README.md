@@ -2,7 +2,7 @@
 
 - I really like to talk to all engineers. I'm interested in Web technology. :kissing_heart:
 - I'm currently interested in Front-end Architecture, Clean Code, Test Driven Development, Open Source and UX.
-
+- I value collaboration, soft skills and communitcation.
 <!--
 **sujin-park/sujin-park** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
